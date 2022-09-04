@@ -1,3 +1,5 @@
+#USE FOR PROD ONLY
+
 FROM node:16-alpine as build_step
 
 WORKDIR /usr/app
